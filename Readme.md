@@ -10,7 +10,7 @@ I rewrite the storage and print systems in a separated modules for writing some 
 
 First compile, for that you will need cargo to be installed in your machine just visit [Official Rust Website](https://www.rust-lang.org)
 
-After clone or download this repository, just run in a terminal this commands
+After clone or download this repository, just run in a terminal this commands:
 
 ```shell
 cd path/to/repository
@@ -18,7 +18,7 @@ cargo build --release
 cd target/release
 ```
 
-Create a storage.txt file to store the todos and to use, just type
+To use, just type:
 
 ```shell
 ./todo <command> <args>
