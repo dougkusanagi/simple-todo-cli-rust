@@ -4,7 +4,7 @@
 
 This is a todo app written in Rust that runs in terminal, it's based on [Nuno Maduro's - Rust For PHP Developers](https://www.youtube.com/watch?v=HfcfQiLhsV4)
 
-I rewrite the storage and print systems in a separated modules for better testing
+I rewrite the storage and print systems in a separated modules for writing some tests
 
 ### How to use
 
